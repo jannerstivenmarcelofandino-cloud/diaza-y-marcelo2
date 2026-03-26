@@ -1,0 +1,18 @@
+h1{
+    color: aqua(42,165,85);
+font-style: oblique;
+font-weight: 900;
+}
+div{
+background-color: rgb(162, 162, 255);
+border: 5px solid rgb(9, 255, 0);
+padding:10%;
+margin-right: 20%;
+margin-left:20%;
+margin-top:  20%;
+}
+
+.CAJAS_LISTAS{
+    background-color: rgb(92, 23, 23);
+
+}
